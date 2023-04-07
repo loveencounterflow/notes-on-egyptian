@@ -16,5 +16,5 @@
 
 
 * Cheops, Chefren: ps, ph, f exchanged? see Gothic alphabet
-
+* List of names of pharaohs, with Greek versions for comparison
 
